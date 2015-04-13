@@ -4,9 +4,11 @@
 ## Tutorials - Machine Learning with Scikit-Learn (I) 
 
 * By: Jake VanderPlas
-* [Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
+* [Youtube Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 * [iPython Notebooks](https://github.com/jakevdp/sklearn_pycon2015)
 
-## Machine Learning with Scikit-Learn (II) [Olivier Grisel]
+## Machine Learning with Scikit-Learn (II)
 
-https://www.youtube.com/watch?v=oGqGxvqA9-k
+* By: Olivier Grisel
+* [Youtube Video](https://www.youtube.com/watch?v=oGqGxvqA9-k)
+* [iPython Notebooks](https://github.com/ogrisel/parallel_ml_tutorial)
