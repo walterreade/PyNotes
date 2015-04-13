@@ -1,8 +1,9 @@
 
 # PyCon 2015 Tutorials
 
-## Tutorials - Machine Learning with Scikit-Learn (I) [Jake VanderPlas]
+## Tutorials - Machine Learning with Scikit-Learn (I) 
 
+* By: Jake VanderPlas
 * [Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 * [iPython Notebooks](https://github.com/jakevdp/sklearn_pycon2015)
 
