@@ -5,7 +5,8 @@
 
 Jake VanderPlas
 
-https://www.youtube.com/watch?v=L7R4HUQ-eQ0
+* [Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
+* [iPython Notebooks](https://github.com/jakevdp/sklearn_pycon2015)
 
 ### Machine Learning with Scikit-Learn (II) [Olivier Grisel]
 
