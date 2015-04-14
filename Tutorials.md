@@ -12,3 +12,10 @@
 * By: Olivier Grisel
 * [Youtube Video](https://www.youtube.com/watch?v=oGqGxvqA9-k)
 * [iPython Notebooks](https://github.com/walterreade/PyCon2015-Machine-Learning-II)
+
+## Statistical Inference in Python
+
+* By: Allen Downey
+* [Youtube Video](https://www.youtube.com/watch?v=5Vjrqnk7Igs)
+* [Presentation Slides](https://docs.google.com/presentation/d/1imQAEmNg4GB3bCAblauMOOLlAC95-XvkTSKB1_dB3Tg/edit?hl=en#slide=id.p)
+* [iPython Notebooks](https://github.com/AllenDowney/CompStats)
