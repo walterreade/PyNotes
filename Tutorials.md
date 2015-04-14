@@ -7,10 +7,10 @@
 * [Youtube Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 * [iPython Notebooks](https://github.com/walterreade/PyCon2015-Machine-Learning-I)
 
-'''
+```
 # set seaborn plot defaults.
 import seaborn; seaborn.set()
-'''
+```
 
 ## Machine Learning with Scikit-Learn (II)
 
