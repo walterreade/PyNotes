@@ -5,7 +5,7 @@
 
 * By: Jake VanderPlas
 * [Youtube Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
-* [iPython Notebooks](https://github.com/jakevdp/sklearn_pycon2015)
+* [iPython Notebooks](https://github.com/walterreade/PyCon2015-Machine-Learning-I)
 
 ## Machine Learning with Scikit-Learn (II)
 
