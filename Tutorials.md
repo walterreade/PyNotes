@@ -5,36 +5,13 @@
 
 * By: Jake VanderPlas
 * [Youtube Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
-* [iPython Notebooks](https://github.com/walterreade/PyCon2015-Machine-Learning-I)
-
-```python
-# set seaborn plot defaults.
-import seaborn as sns; sns.set()
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.datasets import load_iris
-
-iris = load_iris()
-
-x_index = 0
-y_index = 1
-
-# this formatter will label the colorbar with the correct target names
-formatter = plt.FuncFormatter(lambda i, *args: iris.target_names[int(i)])
-
-plt.scatter(iris.data[:, x_index], iris.data[:, y_index],
-            c=iris.target, cmap=plt.cm.get_cmap('RdYlBu', 3))
-plt.colorbar(ticks=[0, 1, 2], format=formatter)
-plt.clim(-0.5, 2.5)
-plt.xlabel(iris.feature_names[x_index])
-plt.ylabel(iris.feature_names[y_index]);
-```
+* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Machine-Learning-I/tree/master/notebooks/)
 
 ## Machine Learning with Scikit-Learn (II)
 
 * By: Olivier Grisel
 * [Youtube Video](https://www.youtube.com/watch?v=oGqGxvqA9-k)
-* [iPython Notebooks](https://github.com/walterreade/PyCon2015-Machine-Learning-II)
+* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Machine-Learning-II)
 
 ## Statistical Inference in Python
 
