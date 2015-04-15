@@ -19,4 +19,4 @@
 * By: Allen Downey
 * [Youtube Video](https://www.youtube.com/watch?v=5Vjrqnk7Igs)
 * [Presentation Slides](https://docs.google.com/presentation/d/1imQAEmNg4GB3bCAblauMOOLlAC95-XvkTSKB1_dB3Tg/edit?hl=en#slide=id.p)
-* [iPython Notebooks](https://github.com/AllenDowney/CompStats)
+* [iPython Notebooks](https://github.com/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Computational-Statistics/notebooks)
