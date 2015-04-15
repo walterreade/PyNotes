@@ -1,0 +1,10 @@
+.DS_Store
+*.mmap
+joblib
+*.pyc
+*.pkl
+*.npy
+*.zip
+
+datasets
+.ipynb_checkpoints
