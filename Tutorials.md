@@ -6,7 +6,7 @@
 * By: Jake VanderPlas
 * [Youtube Video](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 * [Author's Repo (fork)](https://github.com/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Machine-Learning-I)
-* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Machine-Learning-I/tree/master/notebooks/)
+* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Machine-Learning-I/notebooks/)
 
 ## Machine Learning with Scikit-Learn (II)
 
