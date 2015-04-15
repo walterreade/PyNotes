@@ -3,7 +3,7 @@
 ## "Words, words, words": Reading Shakespeare with Python
 
 * Adam Palay
-* [Youtube Video](https://www.youtube.com/watch?v=EoWG0lavg9U
+* [Youtube Video](https://www.youtube.com/watch?v=EoWG0lavg9U)
 
 ## Machine Learning 101
 
