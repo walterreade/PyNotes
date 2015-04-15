@@ -26,3 +26,35 @@
 ## Bayesian Statistics Made Simple
 
 https://sites.google.com/site/simplebayes/home/pycon-2015
+
+## Python by Immersion
+
+https://www.youtube.com/watch?v=RVNIdoepdzU
+
+## Pandas From The Ground Up
+
+https://www.youtube.com/watch?v=5JnMutdy6Fw
+
+## Orlando Karam - Introduction to Spark with python
+
+https://www.youtube.com/watch?v=9xYfNznjClE
+
+## Making Beautiful Graphs in Python and Sharing Them (Plotly)
+
+https://www.youtube.com/watch?v=9F_kkf7CDQs
+
+## IPython & Jupyter in depth: high productivity interactive and parallel python
+
+https://www.youtube.com/watch?v=05fA_DXgW-Y
+
+## Hands-on Data Analysis with Python
+
+https://www.youtube.com/watch?v=L4Hbv4ugUWk
+
+## Winning Machine Learning Competitions With Scikit-Learn
+
+https://www.youtube.com/watch?v=gDbaCIE0mrA
+
+## Hands-on with Pydata: how to build a minimal recommendation engine
+
+https://www.youtube.com/watch?v=F6gWjOc1FUs
