@@ -1,5 +1,7 @@
 # PyCon 2015 Scikit-learn Tutorial
 
+**NOTE:** These files were forked from the [instructors github repo](https://github.com/jakevdp/sklearn_pycon2015).
+
 *Instructor: Jake VanderPlas*
 
 - email: <jakevdp@uw.edu>
