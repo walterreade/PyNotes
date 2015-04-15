@@ -22,3 +22,7 @@
 * [Presentation Slides](https://docs.google.com/presentation/d/1imQAEmNg4GB3bCAblauMOOLlAC95-XvkTSKB1_dB3Tg/edit?hl=en#slide=id.p)
 * [Author's Repo (fork)](https://github.com/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Computational-Statistics)
 * [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Computational-Statistics/notebooks)
+
+## Bayesian Statistics Made Simple
+
+https://sites.google.com/site/simplebayes/home/pycon-2015
