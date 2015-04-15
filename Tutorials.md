@@ -12,7 +12,7 @@
 
 * By: Olivier Grisel
 * [Youtube Video](https://www.youtube.com/watch?v=oGqGxvqA9-k)
-* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Machine-Learning-II)
+* [iPython Notebooks](http://nbviewer.ipython.org/github/walterreade/PyCon2015-Notes/tree/master/Tutorial-Files/Machine-Learning-II/notebooks/)
 
 ## Statistical Inference in Python
 
