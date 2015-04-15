@@ -26,6 +26,10 @@
 * [Youtube Video](https://www.youtube.com/watch?v=HZTgLuOpFU8)
 
 
+## Beyond PEP 8 -- Best practices for beautiful intelligible code
+
+* Raymond Hettinger
+* [Youtube Video](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 
 
 
