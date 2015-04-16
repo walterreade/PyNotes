@@ -75,7 +75,7 @@
 ### A Beginner's Guide to Test-driven Development
 * By: Itamar Turner-Trauring
 * [Youtube Video](https://www.youtube.com/watch?v=ePaga05gisk)
-* 
+
 ### Other people's messy data (and how not to hate it!)
 * By: Mali Akmanalp
 * [Youtube Video](https://www.youtube.com/watch?v=_eQ_8U5kruQ)
