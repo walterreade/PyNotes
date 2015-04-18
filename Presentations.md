@@ -1,18 +1,24 @@
 ## PyCon 2015 Presentations
 
 ### ["Words, words, words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U)
-* By: Adam Palay
+* By: [Adam Palay](http://www.adampalay.com/)
 * How can we use use Python to suplement our reading of Shakespeare?
 * How can we get Python to read for us?
 * [Shakespeare in XLM](https://github.com/severdia/PlayShakespeare.com-XML)
-* nltk.FreqDict
-* nltk.ConditionalFreqDict
+* Classifier - How to tell if speech is from a tragedy or comedy?
+* Bag of Words - Frequencey of all words in text
 
 ```python
 rhymes = get_rhymes(sonnets)
 fd = nltk.FreqDist(rhymes)
 for rhyme, freq in fd.most_common(10):
  print rhyme, freq
+
+# most common words that rhyme with 'thee'
+rhymes = rhymes + [tuple(reversed(rhyme)) for rhyme in rhymes]
+cfd = nltk.CondaitionalFreqDist(rhymes)
+for word, freq in cfd['thee'].most_common():
+ print word, freq
 ```
 
 ### [Machine Learning 101](https://www.youtube.com/watch?v=r-1XJBHot58)
@@ -73,7 +79,7 @@ for rhyme, freq in fd.most_common(10):
 
 ### [Learning from other's mistakes: Data-driven analysis of Python code](https://www.youtube.com/watch?v=rN0kNQLDYCI)
 * By: Andreas Dewes
-* [Youtube Video]
+* 
 
 ### [Technical Debt - The code monster in everyone's closet](https://www.youtube.com/watch?v=JKYktDRoRxw)
 * By: Nina Zakharenko
@@ -87,37 +93,37 @@ for rhyme, freq in fd.most_common(10):
 * By: Itamar Turner-Trauring
 * 
 
-### Other people's messy data (and how not to hate it!)
+### [Other people's messy data (and how not to hate it!)](https://www.youtube.com/watch?v=_eQ_8U5kruQ)
 * By: Mali Akmanalp
-* [Youtube Video](https://www.youtube.com/watch?v=_eQ_8U5kruQ)
+* 
 
-### Describing Descriptors
+### [Describing Descriptors](https://www.youtube.com/watch?v=h2-WPwGnHqE)
 * By: Laura Rupprecht
-* [Youtube Video](https://www.youtube.com/watch?v=h2-WPwGnHqE)
+* 
 
-### Make web development awesome with visual diffing tools
+### [Make web development awesome with visual diffing tools](https://www.youtube.com/watch?v=jUUTqgzNR3M)
 * By: Daniel Vanderkam
-* [Youtube Video](https://www.youtube.com/watch?v=jUUTqgzNR3M)
+* 
 
-### Techniques for Debugging Hard Problems
+### [Techniques for Debugging Hard Problems](https://www.youtube.com/watch?v=ij99SGGEX34)
 * By: Alex Gaynor
-* [Youtube Video](https://www.youtube.com/watch?v=ij99SGGEX34)
+* 
 
-### Your Brain's API: Giving and Getting Technical Help
+### [Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 * By: Sasha Laundy
-* [Youtube Video](https://www.youtube.com/watch?v=hY14Er6JX2s)
+* 
 
-### Keynote - Jacob Kaplan-Moss
-* [Youtube Video](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+### [Keynote - Jacob Kaplan-Moss](https://www.youtube.com/watch?v=hIJdFxYlEKE)
+* 
 
-### Beyond grep: Practical Logging and Metrics
+### [Beyond grep: Practical Logging and Metrics](https://www.youtube.com/watch?v=gqmAwK0wNyw)
 * By: Hynek Schlawack
-* [Youtube Video](https://www.youtube.com/watch?v=gqmAwK0wNyw)
+* 
 
-### Interactive data for the web - Bokeh for web developers
+### [Interactive data for the web - Bokeh for web developers](https://www.youtube.com/watch?v=O5OvOLK-xqQ))
 * By: Sarah Bird
-* [Youtube Video](https://www.youtube.com/watch?v=O5OvOLK-xqQ)
+* 
 
-### Performance by the Numbers: analyzing the performance of web applications
+### [Performance by the Numbers: analyzing the performance of web applications](https://www.youtube.com/watch?v=UAztOuO1ANQ)
 * By: Geoff Gerrietts
-* [Youtube Video](https://www.youtube.com/watch?v=UAztOuO1ANQ)
+* 
