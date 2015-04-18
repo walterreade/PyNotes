@@ -5,80 +5,87 @@
 * How can we use use Python to suplement our reading of Shakespeare?
 * How can we get Python to read for us?
 * [Shakespeare in XLM](https://github.com/severdia/PlayShakespeare.com-XML)
+* nltk.FreqDict
+* nltk.ConditionalFreqDict
+
+```python
+rhymes = get_rhymes(sonnets)
+fd = nltk.FreqDist(rhymes)
+for rhyme, freq in fd.most_common(10):
+ print rhyme, freq
+```
+
+### [Machine Learning 101](https://www.youtube.com/watch?v=r-1XJBHot58)
+* By: Kyle Kastner
 * 
 
-
-### Machine Learning 101
-* By: Kyle Kastner
-* [Youtube Video](https://www.youtube.com/watch?v=r-1XJBHot58)
-
-### How to Be More Effective with Functions
+### [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
 * By: Brett Slatkin
-* [Youtube Video](https://www.youtube.com/watch?v=WjJUPxKB164)
+* 
 
-### What can programmers learn from pilots?
+### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
-* [Youtube Video](https://www.youtube.com/watch?v=we4G_X91e5w)
+* 
 
-### Data Science in Advertising: Or a future when we love ads
+### [Data Science in Advertising: Or a future when we love ads](https://www.youtube.com/watch?v=HZTgLuOpFU8)
 * By: Soups Ranjan
-* [Youtube Video](https://www.youtube.com/watch?v=HZTgLuOpFU8)
+* 
 
-### Beyond PEP 8 -- Best practices for beautiful intelligible code
-* Raymond Hettinger
-* [Youtube Video](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+### [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* By: Raymond Hettinger
+* 
 
-### How to make your code Python 2/3 compatible
+### [How to make your code Python 2/3 compatible](https://www.youtube.com/watch?v=KPzDX5TX5HE)
 * By: Brett Cannon
-* [Youtube Video](https://www.youtube.com/watch?v=KPzDX5TX5HE)
+* 
 
-### Advanced Git
+### [Advanced Git](https://www.youtube.com/watch?v=4EOZvow1mk4)
 * By: David Baumgold
-* [Youtube Video](https://www.youtube.com/watch?v=4EOZvow1mk4)
+* 
 
-### Python Concurrency From the Ground Up
+### [Python Concurrency From the Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * By: David Beazley
-* [Youtube Video](https://www.youtube.com/watch?v=MCs5OvhV9S4)
+* 
 
-### Grids, Streets and Pipelines: Building a linguistic street map with scikit-learn
+### [Grids, Streets and Pipelines: Building a linguistic street map with scikit-learn](https://www.youtube.com/watch?v=MIFOTFdtK2k)
 * By: Michelle Fullwood
-* [Youtube Video](https://www.youtube.com/watch?v=MIFOTFdtK2k)
+* 
 
-### How to interpret your own genome using (mostly) Python
+### [How to interpret your own genome using (mostly) Python](https://www.youtube.com/watch?v=jV4YMQHZmMk)
 * By: Titus Brown
-* [Youtube Video](https://www.youtube.com/watch?v=jV4YMQHZmMk)
+* 
 
-### Losing your Loops Fast Numerical Computing with NumPy
+### [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw)
 * By: Jake VanderPlas
-* [Youtube Video](https://www.youtube.com/watch?v=EEUXKG97YRw)
+* 
 
-### Don't Make Us Say We Told You So: virtualenv for New Pythonistas
+### [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](https://www.youtube.com/watch?v=Xdv7vwIIThY)
 * By: Renee Chu, Matt Makai
-* [Youtube Video](https://www.youtube.com/watch?v=Xdv7vwIIThY)
+* 
 
-### How to Write Reusable Code
+### [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU)
 * By: Greg Ward
-* [Youtube Video](https://www.youtube.com/watch?v=r9cnHO15YgU)
+* 
 
-### Good Test, Bad Test
+### [Good Test, Bad Test](https://www.youtube.com/watch?v=RfR_QRoNZxo)
 * By: Dan Crosta
-* [Youtube Video](https://www.youtube.com/watch?v=RfR_QRoNZxo)
+* 
 
-### Learning from other's mistakes: Data-driven analysis of Python code
+### [Learning from other's mistakes: Data-driven analysis of Python code](https://www.youtube.com/watch?v=rN0kNQLDYCI)
 * By: Andreas Dewes
-* [Youtube Video](https://www.youtube.com/watch?v=rN0kNQLDYCI)
+* [Youtube Video]
 
-### Technical Debt - The code monster in everyone's closet
+### [Technical Debt - The code monster in everyone's closet](https://www.youtube.com/watch?v=JKYktDRoRxw)
 * By: Nina Zakharenko
-* [Youtube Video](https://www.youtube.com/watch?v=JKYktDRoRxw)
+* 
 
-### Facts and Myths about Python names and values
+### [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 * By: Ned Batchelder
-* [Youtube Video](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+* 
 
-### A Beginner's Guide to Test-driven Development
+### [A Beginner's Guide to Test-driven Development](https://www.youtube.com/watch?v=ePaga05gisk)
 * By: Itamar Turner-Trauring
-* [Youtube Video](https://www.youtube.com/watch?v=ePaga05gisk)
+* 
 
 ### Other people's messy data (and how not to hate it!)
 * By: Mali Akmanalp
