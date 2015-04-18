@@ -4,6 +4,11 @@
 * By: Adam Palay
 * [Youtube Video](https://www.youtube.com/watch?v=EoWG0lavg9U)
 
+How can we use use Python to suplement our reading of Shakespeare?
+How can we get Python to read for us?
+
+
+
 ### Machine Learning 101
 * By: Kyle Kastner
 * [Youtube Video](https://www.youtube.com/watch?v=r-1XJBHot58)
