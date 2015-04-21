@@ -23,7 +23,11 @@ for word, freq in cfd['thee'].most_common():
 
 ### [Machine Learning 101](https://www.youtube.com/watch?v=r-1XJBHot58)
 * By: Kyle Kastner
-* 
+* [iPython Notebooks and Slides](https://github.com/kastnerkyle/PyCon2015)
+* Automation Spectrum: Handcrafted Rules -> Statistics -> Machine Learning -> Deep Learning
+* Manifold Hypothesis - Most information is structured
+* [Standford UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+* [Representation Learning](https://ift6266h15.wordpress.com/)
 
 ### [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
 * By: Brett Slatkin
