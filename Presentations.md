@@ -28,6 +28,8 @@ for word, freq in cfd['thee'].most_common():
 * Manifold Hypothesis - Most information is structured
 * [Standford UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 * [Representation Learning](https://ift6266h15.wordpress.com/)
+* "If you know any jokes, just tell them in your head right now."
+* [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano)
 
 ### [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
 * By: Brett Slatkin
