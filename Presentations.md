@@ -70,9 +70,8 @@ class LoadCities(object):
    for line in handle:
     city,count = line.split('\t')
     yield city, int(count)
-```
- * The defensive code then becomes:
-```python
+    
+# The defensive code then becomes:
 def normalize_defensive(pop):
  if iter(pop) is iter(pop):
   raise TypeError('Must be a container')
