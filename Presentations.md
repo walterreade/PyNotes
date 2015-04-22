@@ -36,8 +36,7 @@ for word, freq in cfd['thee'].most_common():
 ### [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
 * By: [Brett Slatkin](http://www.onebigfluke.com/)
 * Book: [Effective Python](http://effectivepython.com)
-* Reduce visual noise with variable positional argumants
-* ` def foo(*args)`
+* Reduce visual noise with variable positional argumants `def foo(*args)`
 
 ```python
 favorites = [7, 33, 99]
@@ -48,6 +47,12 @@ log('Favorite numbers', 7, 33, 99)
 
 # If you pass a generator with *, it will break
 ```
+* Provide optional behavior with keyword arguments `def foo(bar=123)`
+** Allows you to add functionality over time without breaking the callers
+* Enforce clarity with keyword-only arguments `def foo(*, bar=123)`
+** Everything that comes after a `*` is required to passed as a keyword
+* Use keyword-only args to extend *args `def log(message, *values, seq=None)`
+** Python 2: `def log(message, *values, **kwargs)`
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
