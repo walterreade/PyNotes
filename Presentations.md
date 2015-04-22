@@ -37,7 +37,17 @@ for word, freq in cfd['thee'].most_common():
 * By: [Brett Slatkin](http://www.onebigfluke.com/)
 * Book: [Effective Python](http://effectivepython.com)
 * Reduce visual noise with variable positional argumants
-* * `python def foo(*args)`
+* ` def foo(*args)`
+
+```python
+favorites = [7, 33, 99]
+log('Favorite numbers', *favorites)
+
+# Equivalent to:
+log('Favorite numbers', 7, 33, 99)
+
+# If you pass a generator with *, it will break
+```
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
