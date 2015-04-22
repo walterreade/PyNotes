@@ -37,7 +37,7 @@ for word, freq in cfd['thee'].most_common():
 * By: [Brett Slatkin](http://www.onebigfluke.com/)
 * Book: [Effective Python](http://effectivepython.com)
 * Reduce visual noise with variable positional argumants
-* * `def foo(*args)`
+* * `python def foo(*args)`
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
