@@ -53,6 +53,24 @@ log('Favorite numbers', 7, 33, 99)
  * Everything that comes after a `*` is required to passed as a keyword
 * Use keyword-only args to extend *args `def log(message, *values, seq=None)`
  * Python 2: `def log(message, *values, **kwargs)`
+* Consider generators instead of returning lists `yield foo`
+* Be defensive when iterating over arguments
+ * Python can't tell the difference between an empty iterator and an iterator that's been exhausted
+ * If you iterate over an iterator, you get the same iterator
+ * If you itereate over a sequence twice, you get different iterators
+ * You can create an iterable container:
+```python
+class LoadCities(object):
+
+ def __init__(self, path):
+  self.path = path
+ 
+ def __iter__(self):
+  with open(self.path) as handle:
+   for line in handle:
+    city,count = line.split('\t')
+    yield city, int(count)
+```
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
