@@ -58,7 +58,7 @@ log('Favorite numbers', 7, 33, 99)
  * Python can't tell the difference between an empty iterator and an iterator that's been exhausted
  * If you iterate over an iterator, you get the same iterator
  * If you itereate over a sequence twice, you get different iterators
- * You can create an iterable container:
+ * You can create an iterable container. When you do this, you get a new iterator with every call.
 ```python
 class LoadCities(object):
 
@@ -70,6 +70,13 @@ class LoadCities(object):
    for line in handle:
     city,count = line.split('\t')
     yield city, int(count)
+```
+ * The defensive code then becomes:
+```python
+def normalize_defensive(pop):
+ if iter(pop) is iter(pop):
+  raise TypeError('Must be a container')
+ total = ...
 ```
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
