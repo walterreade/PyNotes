@@ -1,5 +1,7 @@
 ## PyCon 2015 Presentations
 
+**NOTE:** Presentation titles link to corresponding youtube videos. 
+
 ### ["Words, words, words": Reading Shakespeare with Python](https://www.youtube.com/watch?v=EoWG0lavg9U)
 * By: [Adam Palay](http://www.adampalay.com/)
 * How can we use use Python to suplement our reading of Shakespeare?
@@ -32,8 +34,10 @@ for word, freq in cfd['thee'].most_common():
 * [sklearn-theano](https://github.com/sklearn-theano/sklearn-theano)
 
 ### [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164)
-* By: Brett Slatkin
-* 
+* By: [Brett Slatkin](http://www.onebigfluke.com/)
+* Book: [Effective Python](http://effectivepython.com)
+* Reduce visual noise with variable positional argumants
+* * `def foo(*args)`
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
