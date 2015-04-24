@@ -125,7 +125,7 @@ def normalize_defensive(pop):
 * 
 
 ### [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](https://www.youtube.com/watch?v=Xdv7vwIIThY)
-* By: Renee Chu, Matt Makai
+* By: [Renee Chu](https://github.com/reneighbor), [Matt Makai](https://github.com/makaimc)
 * New bins, libs are created in your virtualenvs
 * bin/activate adds path to the begining of your `$PATH`
 ```
