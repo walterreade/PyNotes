@@ -126,7 +126,23 @@ def normalize_defensive(pop):
 
 ### [Don't Make Us Say We Told You So: virtualenv for New Pythonistas](https://www.youtube.com/watch?v=Xdv7vwIIThY)
 * By: Renee Chu, Matt Makai
-* 
+* New bins, libs are created in your virtualenvs
+* bin/activate adds path to the begining of your `$PATH`
+```
+mkdir envs
+cd envs
+virtualenv projname1
+source projname1/bin/activate
+deactivate
+
+virtualenv projname2
+...
+echo $PATH
+```
+* virtualenvs handle dependency isolation. They don't handle environment variables.
+ * Use shell aliases: alias projname1='source ~/envs/projname1/bin/activate; cd path_to/workproj1; ./setenvs.sh;'
+ 
+
 
 ### [How to Write Reusable Code](https://www.youtube.com/watch?v=r9cnHO15YgU)
 * By: Greg Ward
