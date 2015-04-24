@@ -80,14 +80,6 @@ def normalize_defensive(pop):
 
 ### [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w)
 * By: Andrew Godwin 
-* 
-
-### [Data Science in Advertising: Or a future when we love ads](https://www.youtube.com/watch?v=HZTgLuOpFU8)
-* By: Soups Ranjan
-* 
-
-### [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
-* By: Raymond Hettinger
 * Soft Failure - causes you to ignore or complete miss issues. Crash hard on serious error.
 * No constant low-level warmings. If you ignore it for a week, delete the warning.
 * Test to the limits. Don't completely rely on automation.
@@ -99,6 +91,14 @@ def normalize_defensive(pop):
  * Don't schedule everyone at maximum
  * Always expect unknown problems
  * Ship good code rather than to a deadline
+
+### [Data Science in Advertising: Or a future when we love ads](https://www.youtube.com/watch?v=HZTgLuOpFU8)
+* By: Soups Ranjan
+* 
+
+### [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+* By: Raymond Hettinger
+*
 
 ### [How to make your code Python 2/3 compatible](https://www.youtube.com/watch?v=KPzDX5TX5HE)
 * By: Brett Cannon
