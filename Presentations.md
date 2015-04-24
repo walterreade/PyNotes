@@ -88,7 +88,17 @@ def normalize_defensive(pop):
 
 ### [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 * By: Raymond Hettinger
-* 
+* Soft Failure - causes you to ignore or complete miss issues. Crash hard on serious error.
+* No constant low-level warmings. If you ignore it for a week, delete the warning.
+* Test to the limits. Don't completely rely on automation.
+* Checklists for everything. Minimize people reliance. Reduce workload at critical times.
+* Priorities: What are the key things that must be done?
+* Clear command (who makes the dicusion) and communication (others always listened to).
+* Blame the process not the person.
+* Deadlines:
+ * Don't schedule everyone at maximum
+ * Always expect unknown problems
+ * Ship good code rather than to a deadline
 
 ### [How to make your code Python 2/3 compatible](https://www.youtube.com/watch?v=KPzDX5TX5HE)
 * By: Brett Cannon
@@ -176,3 +186,5 @@ def normalize_defensive(pop):
 ### [Performance by the Numbers: analyzing the performance of web applications](https://www.youtube.com/watch?v=UAztOuO1ANQ)
 * By: Geoff Gerrietts
 * 
+
+### (Docker)
