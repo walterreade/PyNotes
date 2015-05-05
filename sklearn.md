@@ -17,7 +17,6 @@
 |RidgeClassifierCV|Y||
 |SGDClassifier|Y|1|
 |SVC|Y|Y|
-||||
 |KernelRidge | Y |  |
 
 1. Using 'Log' or 'Huber'
