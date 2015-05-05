@@ -1,4 +1,8 @@
 | Algorithm | Sparse | Proba |
 |----------|:----------:|----------|
-| KernelRidge | Y |  |
+|BernoulliNB|Y|Y|
+|NultinomialNB|Y|Y|
+||||
+||||
+|||| KernelRidge | Y |  |
 
