@@ -7,11 +7,17 @@
 |LabelPropagation|Y|Y|
 |LabelSpreading|Y|Y|
 |LinearSVC|Y||
-||||
-||||
-||||
-||||
-||||
+|LogisticRegression|Y|Y|
+|NearestCentroid|Y||
+|NuSVC|Y|Y|
+|PassiveAgressiveClassifier|Y||
+|Perceptron|Y||
+|RadiusNeighborsClassifier|Y||
+|RidgeClassifier|Y||
+|RidgeClassifierCV|Y||
+|SGDClassifier|Y|1|
+|SVC|Y|Y|
 ||||
 |KernelRidge | Y |  |
 
+1. Using 'Log' or 'Huber'
