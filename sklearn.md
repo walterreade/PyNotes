@@ -1,6 +1,6 @@
 | Algorithm | Sparse | Proba |
 |:----------|:----------:|:----------:|
-|BernoulliNB|Y|Y|
+|[BernoulliNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html)|Y|Y|
 |NultinomialNB|Y|Y|
 |DummyClassifier|Y|Y|
 |KNeighborsClassifier|Y|Y|
