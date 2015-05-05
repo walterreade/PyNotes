@@ -15,6 +15,6 @@
 |RadiusNeighborsClassifier|Y|||
 |RidgeClassifier|Y|||
 |RidgeClassifierCV|Y|||
-|SGDClassifier|Y|Using 'Log' or 'Huber'||
+|SGDClassifier|Y||Using 'Log' or 'Huber'|
 |SVC|Y|Y||
 |KernelRidge | Y |  ||
