@@ -23,66 +23,62 @@ https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu
 
 ```
 
-### [xxxxx]()
+### [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=olb7R1cuzyU)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
-
-```python
-
-
-```
-
-### [xxxxx]()
-
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Stefan Van der Walt
+* [Author's Repo](https://github.com/scikit-image/skimage-tutorials/tree/master/2015-scipy)
 
 ```python
 
 
 ```
 
-### [xxxxx]()
+### [Computational Statistics (I)](https://www.youtube.com/watch?v=fMycLa1bsno)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Allen Downey
+* [Author's Repo](https://sites.google.com/site/pyinference/home/scipy-2015)
+
 
 ```python
 
 
 ```
 
-### [xxxxx]()
+### [Computational Statistics (II)](https://www.youtube.com/watch?v=heFaYLKVZY4)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
-
-```python
-
-
-```
-
-### [xxxxx]()
-
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Chris Fonnesbeck
+* [Author's Repo](https://github.com/fonnesbeck/scipy2015_tutorial)
 
 ```python
 
 
 ```
 
-### [xxxxx]()
+### [Multibody Dynamics and Control with Python](https://www.youtube.com/watch?v=mdo2NYtA-xY)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Jason Moore and James Crist
+* [Author's Repo](https://github.com/pydy/pydy-tutorial-human-standing)
+
+```python
+
+
+```
+
+### [Introduction to NumPy](https://www.youtube.com/watch?v=1zmV8lZsHF4)
+
+* By: Eric Jones
+* [Author's Repo](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2015)
+
+```python
+
+
+```
+
+### [Geospatial Data with Open Source Tools in Python](https://www.youtube.com/watch?v=HzPSVwyP2Y0)
+
+* By: Kelsey Jordahl
+* [Author's Repo](https://github.com/kjordahl/Scipy-Tutorial-2015)
+* [Author's Slides](http://kjordahl.github.io/SciPy-Tutorial-2015/#1)
 
 ```python
 
