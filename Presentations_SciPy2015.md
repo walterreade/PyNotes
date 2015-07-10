@@ -10,7 +10,9 @@
 
 ### [A Better Default Colormap for Matplotlib](https://www.youtube.com/watch?v=xAoljeRJ3lU)
 * By: Nathaniel Smith and Stéfan van der Walt
-* 
+* Needs to be color-blind and gray-scale friendly
+* The proposal: viridis
+* Coming in Matplotlib 2.0
 
 ### [Story Time with Bokeh](https://www.youtube.com/watch?v=c9CgHHz_iYk)
 * By: Bryan Van de Ven
@@ -66,6 +68,46 @@
 * 
 
 
+### [Keynote: Data Science at the New York Times](https://www.youtube.com/watch?v=MNosMXFGtBE)
+* By: Chris Wiggins
+* 
+
+### [Scientific Data Analysis and Visualization with VTK and ParaView](https://www.youtube.com/watch?v=8ugmkKaYKxM&index=20)
+* By: Cory Quammen
+* 
+
+### [HoloViews Building Complex Visualizations Easily for Reproducible Science](https://www.youtube.com/watch?v=hNsR2H7Lrg0)
+* By: Jean Luc R
+* 
+
+### [Geospatial Data with Open Source Tools in Python](https://www.youtube.com/watch?v=HzPSVwyP2Y0)
+* By: Kelsey Jordahl
+* 
+
+### [HDF5 is Eating the World](https://www.youtube.com/watch?v=nddj5OA8LJo)
+* By: Andrew Collette
+* 
+
+### [The Need for New Tools for Materials Discovery](https://www.youtube.com/watch?v=kOGgnFtXr_Q)
+* By: Christopher Wilmer
+* 
+
+### [Optimal Control and Parameter Identification of Dynamcal Systems with Direct Collocation using SymPy](https://www.youtube.com/watch?v=ZJiYs2HuQy8)
+* By: 
+* 
+
+### [Eigenvector Spatial Filtering using NumPy and ArcGIS](https://www.youtube.com/watch?v=6wXoUxjFIcM)
+* By: Bryan Chastain
+* 
+
+### [Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY)
+* By: Wes McKinney
+* 
+
+### []()
+* By: 
+* 
+
 ### []()
 * By: 
 * 
@@ -74,6 +116,13 @@
 * By: 
 * 
 
+### []()
+* By: 
+* 
+
+### []()
+* By: 
+* 
 
 ### []()
 * By: 
@@ -83,6 +132,13 @@
 * By: 
 * 
 
+### []()
+* By: 
+* 
+
+### []()
+* By: 
+* 
 
 ### []()
 * By: 
@@ -92,6 +148,13 @@
 * By: 
 * 
 
+### []()
+* By: 
+* 
+
+### []()
+* By: 
+* 
 
 ### []()
 * By: 
@@ -101,5 +164,12 @@
 * By: 
 * 
 
+### []()
+* By: 
+* 
+
+### []()
+* By: 
+* 
 
 
