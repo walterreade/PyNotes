@@ -3,22 +3,20 @@
 
 https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu
 
-### [xxxxx]()
+### [Machine Learning with Scikit Learn (I)](https://www.youtube.com/watch?v=80fZrVMurPM)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Andreas Mueller and Kyle Kastner
+* [Author's Repo](https://github.com/amueller/scipy_2015_sklearn_tutorial)
 
 ```python
 
 
 ```
 
-### [xxxxx]()
+### [Machine Learning with Scikit Learn (II)](https://www.youtube.com/watch?v=Ud-FsEWegmA)
 
-* By: 
-* [Author's Repo (fork)]()
-* [iPython Notebooks]()
+* By: Andreas Mueller and Kyle Kastner
+* [Author's Repo](https://github.com/amueller/scipy_2015_sklearn_tutorial)
 
 ```python
 
