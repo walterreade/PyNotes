@@ -5,3 +5,5 @@
 * [My 5-min Lightning Talk - "The Scientific Foundation of Agile"](https://youtu.be/ZEE3dlo7ov0?t=1268)
 
 # SciPy 2015 Notes
+
+* [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Presentations_SciPy2015.md)
