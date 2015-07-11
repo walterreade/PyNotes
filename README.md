@@ -6,4 +6,5 @@
 
 # SciPy 2015 Notes
 
+* [Tutorial Notes](https://github.com/walterreade/PyNotes/blob/master/Tutorials_SciPy2015.md)
 * [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Presentations_SciPy2015.md)
