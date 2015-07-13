@@ -19,9 +19,11 @@
 * Visualization in the browser
 
 
-### [Teaching with IPython:Jupyter Notebooks and JupyterHub](https://www.youtube.com/watch?v=OuhtpxGuboY)
+### [Teaching with IPython: Jupyter Notebooks and JupyterHub](https://www.youtube.com/watch?v=OuhtpxGuboY)
 * By: Jessica Hamrick
-* 
+* nbgrader
+* JypyterHub
+* Docker + NFS
 
 ### [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=olb7R1cuzyU)
 * By: Stefan Van der Walt
