@@ -27,7 +27,9 @@
 
 ### [Dexy and Docker for Scientific Reproducibility](https://www.youtube.com/watch?v=qFd04rA8lp0)
 * By: Ana Nelson
-* 
+* [Source Code](https://github.com/ananelson/scipy2015)
+* Reproducibility for software documentation and research
+* Environment ([Docker](https://www.docker.com/)) + Workflow ([Dexy](http://www.dexy.it/))
 
 ### [Will Millennials Ever Get Married? Survival Analysis and Marriage Data](https://www.youtube.com/watch?v=XHYFNraQEEo)
 * By: Allen Downey
