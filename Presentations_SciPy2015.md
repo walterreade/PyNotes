@@ -25,10 +25,6 @@
 * JypyterHub
 * Docker + NFS
 
-### [Image Analysis in Python with SciPy and Scikit Image](https://www.youtube.com/watch?v=olb7R1cuzyU)
-* By: Stefan Van der Walt
-* 
-
 ### [Dexy and Docker for Scientific Reproducibility](https://www.youtube.com/watch?v=qFd04rA8lp0)
 * By: Ana Nelson
 * 
