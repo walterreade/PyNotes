@@ -214,28 +214,85 @@
 * By: Javier Candeira
 * 
 
-### []()
-* By: 
+### [Software Carpentry - Expansion and Partnerships in 2015 ](https://www.youtube.com/watch?v=dGJzl286D5I)
+* By: Nic Crouch
 * 
-### []()
-* By: 
-* 
-
-### []()
-* By: 
+### [OpenStack: A vision for the future](https://www.youtube.com/watch?v=_cfKwZWjFDw)
+* By: Monty Taylor
 * 
 
-### []()
-* By: 
-* 
-### []()
-* By: 
+### [Reliable testing with pip constraints](https://www.youtube.com/watch?v=aZ_y_U6rZRM)
+* By: Robert Collins
 * 
 
-### []()
-* By: 
+### [Playing to lose: making sensible security decisions by assuming the worst](https://www.youtube.com/watch?v=EQVaNTRqIjY)
+* By: Tom Eastman
 * 
 
-### []()
-* By: 
+### [Interactive visualization for the curious](https://www.youtube.com/watch?v=kr85Jytwy0s)
+* By: Edward Schofield
+* 
+
+### [Custom Python Applications in Neuroscience](https://www.youtube.com/watch?v=ZA05sGM6UfA)
+* By: Simon Salinas and Gagan Sharma
+* 
+
+### [Is Python ready for the Enterprise?](https://www.youtube.com/watch?v=-Fqz_wanF1Y)
+* By: Ryan Stuart
+* 
+
+### [Testing ain't hard, even for SysAdmins](https://www.youtube.com/watch?v=eteKEpoV8Lk)
+* By: Geoff Crompton
+* 
+
+### [Just Use Postgres](https://www.youtube.com/watch?v=UgcC_bY4rPg)
+* By: Rhys Elsmore
+* 
+
+### [Blaze: crunching data in different formats through a single API](https://www.youtube.com/watch?v=Ie7XdxTL5MY)
+* By: Lex Hider
+* 
+
+### [Karaage Gardening](https://www.youtube.com/watch?v=9yiiwcntx5M)
+* By: Brian May
+* 
+
+### [Fast-forward to today's Zaqar](https://www.youtube.com/watch?v=ZS9CRzgLNCE)
+* By: Flavio Percoco
+* 
+
+### [Python for less than $7](https://www.youtube.com/watch?v=7BGAHFsnDXA)
+* By: Graeme Cross
+* 
+
+### [Swagger driven REST API development with the Falcon web server](https://www.youtube.com/watch?v=6oeXeX0NrFM)
+* By: Andrew Stuart
+* 
+
+### [Money, Money, Money - Writing software, in a rich (wo)man's world](https://www.youtube.com/watch?v=mY8B2lXIu6g)
+* By: Russell Keith-Magee
+* 
+
+### [Guarding the gate with Zuul](https://www.youtube.com/watch?v=HlpJhqgGL34)
+* By: Joshua Hesketh
+* 
+
+### [Make your logs work for you](https://www.youtube.com/watch?v=i3rH5cU-Uz4)
+* By: Honza Král
+* 
+
+### [Teaching Programming for the fun of IT](https://www.youtube.com/watch?v=cnX5MGmWpXg)
+* By: Peter Whitehouse
+* 
+
+### [Using PyCharm Educational Edition](https://www.youtube.com/watch?v=kGJVDOaBkKU)
+* By: Thea Koutsoukis
+* 
+
+### [Open edX: An edX partner perspective](https://www.youtube.com/watch?v=8BUuq0KVXm0)
+* By: John Zornig
+* 
+
+### [Keynote: Designed for education: a Python solution](https://www.youtube.com/watch?v=gaFk0Sya_HI)
+* By: Carrie Anne Philbin
 * 
