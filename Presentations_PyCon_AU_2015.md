@@ -287,7 +287,8 @@
 
 ### [Using PyCharm Educational Edition](https://www.youtube.com/watch?v=kGJVDOaBkKU)
 * By: Thea Koutsoukis
-* 
+* Can create lessons/challenges
+* [Examples](https://github.com/theakaterina)
 
 ### [Open edX: An edX partner perspective](https://www.youtube.com/watch?v=8BUuq0KVXm0)
 * By: John Zornig
