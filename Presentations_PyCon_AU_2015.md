@@ -26,7 +26,10 @@
 
 ### [Fast, beautiful and easy Bayesian modelling: Can you have it all?](https://www.youtube.com/watch?v=N6kVJTKT6H8)
 * By: Rhydwyn McGuire
-* Shrinkage Estimator - Borrow individual information from general information. Trust the estimate more when there is more data. [Wikipedia entry](https://en.wikipedia.org/wiki/Shrinkage_estimator)
+* Shrinkage Estimator
+  * Borrow individual information from general information.
+  * Trust the estimate more when there is more data.
+  * [Wikipedia entry](https://en.wikipedia.org/wiki/Shrinkage_estimator)
 * PyStan
  * Fast, Low memory footprint
 
