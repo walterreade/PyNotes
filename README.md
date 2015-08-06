@@ -8,3 +8,7 @@
 
 * [Tutorial Notes](https://github.com/walterreade/PyNotes/blob/master/Tutorials_SciPy2015.md)
 * [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Presentations_SciPy2015.md)
+
+# PyCon AU 2015 Notes
+
+* [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Tutorials_PyCon_AU_2015.md)
