@@ -28,8 +28,8 @@
 * By: Rhydwyn McGuire
 * Shrinkage Estimator - Borrow individual information from general information. Trust the estimate more when there is more data. [Wikipedia entry](https://en.wikipedia.org/wiki/Shrinkage_estimator)
 * PyStan
-* * Fast, Low memory footprint
-* *
+ * Fast, Low memory footprint
+
 
 ### []()
 * By: 
