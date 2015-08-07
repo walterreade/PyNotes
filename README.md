@@ -11,4 +11,8 @@
 
 # PyCon AU 2015 Notes
 
-* [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Tutorials_PyCon_AU_2015.md)
+* [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Presentations_PyCon_AU_2015.md)
+
+# PyData Seattle 2015 Notes
+
+* [Presentation Notes](https://github.com/walterreade/PyNotes/blob/master/Presentations_PyData_Seattle_2015.md)
