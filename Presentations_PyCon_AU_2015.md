@@ -188,7 +188,8 @@
 
 ### [Using Flask and Python Anywhere in the Classroom](https://www.youtube.com/watch?v=pIh7G8RG6JM)
 * By: Brad Nielsen
-* 
+* pythonprogramming.net has some Flask tutorials
+* SQLite is the default db; easiest to use
 
 ### [The Future of Identity (Keystone) in OpenStack](https://www.youtube.com/watch?v=BiFUDT4aGFk)
 * By: Morgan Fainberg
