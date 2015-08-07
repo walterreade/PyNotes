@@ -251,8 +251,18 @@
 
 ### [Blaze: crunching data in different formats through a single API](https://www.youtube.com/watch?v=Ie7XdxTL5MY)
 * By: Lex Hider
-* `odo(source, target) # e.g. df = odo('file.csv', pd.DataFrame)`
-* 
+* `conda install blaze --channel blaze` # gets the latest dev
+* `odo(source, target)`
+ * `df = odo('file.csv', pd.DataFrame)`
+ * `odo('file.csv', 'sqlite://data.db::table_name')`
+ * `odo('data-2015-05-*.csv.gz', pd.DataFrame)` # Multiple files, gzip
+* `dshape` describes the data
+* Blaze lets you separate what you want to calculate from your data
+ * Build expressions, calculate only when needed
+ * Python, Pandas, SQL, PySpark, etc
+ * Can parallel some code
+* [Blaze docs](http://blaze.pydata.org/en/latest/index.html)
+* [Odo docs](http://odo.pydata.org/en/latest/)
 
 ### [Karaage Gardening](https://www.youtube.com/watch?v=9yiiwcntx5M)
 * By: Brian May
