@@ -251,11 +251,13 @@
 
 ### [Blaze: crunching data in different formats through a single API](https://www.youtube.com/watch?v=Ie7XdxTL5MY)
 * By: Lex Hider
+* `odo(source, target) # e.g. df = odo('file.csv', pd.DataFrame)`
 * 
 
 ### [Karaage Gardening](https://www.youtube.com/watch?v=9yiiwcntx5M)
 * By: Brian May
-* 
+* [Slides](https://github.com/lexual/pyconau/blob/master/2015/blaze/BlazeSlides.ipynb)
+* Allows you to interact with a number of dbs using a pandas-like api
 
 ### [Fast-forward to today's Zaqar](https://www.youtube.com/watch?v=ZS9CRzgLNCE)
 * By: Flavio Percoco
