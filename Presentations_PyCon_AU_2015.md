@@ -184,7 +184,10 @@
 
 ### [Learn You a Flask](https://www.youtube.com/watch?v=4_m-sm_DfMs)
 * By: Lachlan Blackhall
-* 
+* [Presentation repo](https://github.com/lblackhall/pyconau2015)
+* Check out the Flask [plug-ins page](http://flask.pocoo.org/extensions/)
+* Learn SQLAlchemy to access the db instead of raw SQL
+* Can run on [Heroku](https://www.heroku.com)
 
 ### [Using Flask and Python Anywhere in the Classroom](https://www.youtube.com/watch?v=pIh7G8RG6JM)
 * By: Brad Nielsen
