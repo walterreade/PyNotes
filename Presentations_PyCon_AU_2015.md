@@ -168,7 +168,22 @@
 
 ### [Not Invented Here: Porting Scientific Software to Python](https://www.youtube.com/watch?v=evhku1Lz8GE)
 * By: Andrew Walker
-* 
+* Don't reinvent the wheel by porting into Python. It's expensive! Interface to the existing.
+* Interoperability tools:
+ * `subprocess`
+  * can use when using CLI, and not worried about performance
+ * `ctypes`
+  * loads dynamic link libraries
+  * use if you only want one or two functions and don't want to write a wrapper
+ * `scipy.weave` (c++ code in python)
+  * run c++ code in python, may be useful when prototyping
+ * `cython`
+  * hyprid of c/c++ and python
+  * excelent profiling tools
+ * `pymatbridge`
+  * calling to matlab via python
+ * `smop`
+  * if you do want to translate from matlab to python ([ ] MultiWayPLS!)
 
 ### [Build a Better Hat Rack: All Contributions Welcome](https://www.youtube.com/watch?v=wNWrr19gE0Y)
 * By: Katie McLaughlin
