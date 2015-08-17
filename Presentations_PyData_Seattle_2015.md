@@ -1,5 +1,7 @@
 ## PyData Seattle 2015 Presentations
 
+https://www.youtube.com/user/PyDataTV/videos
+
 **NOTE:** Presentation titles link to corresponding youtube videos. 
 
 
