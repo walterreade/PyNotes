@@ -12,7 +12,9 @@ https://www.youtube.com/user/PyDataTV/videos
 
 ### [Memex - Mining the Dark Web](https://www.youtube.com/watch?v=oTT4WWqhYNk)
 * By: Katrina Riehl
-* 
+* [Presentation slides](http://www.slideshare.net/continuumio/memex-pydata-seattle)
+* Deep web - What is not indexed
+* Dark Web - Areas purposely hidden
 
 ### [Simplified statistics through simulation](https://www.youtube.com/watch?v=ssVsVhZEQ9M)
 * By: Justin Bozonier
