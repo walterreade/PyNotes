@@ -4,9 +4,8 @@
 
 *The PyData map: Presenting a map of the landscape of PyData tools*
 _Peader Coyle_
-https://www.youtube.com/watch?v=QgjkgNVXSjQ
 
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QgjkgNVXSjQ" target="_blank"><img src="http://img.youtube.com/vi/QgjkgNVXSjQ/0.jpg" width="240" height="180" border="10" /></a>
 
 
 
