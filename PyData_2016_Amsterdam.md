@@ -32,8 +32,35 @@
 **Margaret Mahan** (_Store and manage data effortlessly with HDF5_)
 <br/>https://www.youtube.com/watch?v=XdksDmNsZ1Q
 
-**** (__)
-<br/>
+**Tools and Tricks from a Pragmatic Data Scientist** (_Lucas Bernardi_)
+<br/>https://www.youtube.com/watch?v=HS7mObQttxU
+
+**Realtime Bayesian A-B testing with Spark Streaming** (_Dennis Bohle, Ben Teeuwen_)
+<br/>https://www.youtube.com/watch?v=GFcFNccbDM8
+
+**Pandas: from bdate_range to wide_to_long** (_Giovanni Lanzani_)
+<br/>https://www.youtube.com/watch?v=1NM7iPA-SMY
+<br/>https://gist.github.com/gglanzani/2958fb4237083aecae8c
+
+**Python tools for webscraping** (_José Manuel Ortega_)
+<br/>https://www.youtube.com/watch?v=nDP99hYqAiI
+<br/>https://github.com/PyDataMadrid2016/Conference-Info
+
+**A Hitchhiker's Guide to Data Science** (_Christine Doig_)
+<br/>https://www.youtube.com/watch?v=u3JJsoBpRYk
+<br/>https://github.com/PyDataMadrid2016/Conference-Info
+
+**Understanding Random Forests** (_Marc García_)
+<br/>https://www.youtube.com/watch?v=mtIePLVqVhA
+
+**Embrace conda packages** (_Juan Luís Cano Rodríguez_)
+<br/>https://www.youtube.com/watch?v=0FnXvTaqiOo
+
+**New Computer Trends and How This Affects Us** (_Francesc Alted_)
+<br/>https://www.youtube.com/watch?v=By8xlYOCwws
+
+**Reinforcement Learning in Python** (_Nathan Epstein_)
+<br/>https://www.youtube.com/watch?v=rTMa04TZ_MY
 
 **** (__)
 <br/>
@@ -55,7 +82,6 @@
 
 **** (__)
 <br/>
-
 
 
 
