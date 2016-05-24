@@ -20,6 +20,48 @@
 - Itertools
  - http://jmduke.com/posts/a-gentle-introduction-to-itertools
  
- 
+**The Duct Tape of Heroes: Bayes Rule** (_Vincent Warmerdam_)
+<br/>https://www.youtube.com/watch?v=BiYTLb-o1Dk
+
+**Building a live face recognition system in the blink of a very slow eye** (_Rodrigo Agundez_)
+<br/>https://www.youtube.com/watch?v=MDaZtJPv3Ik
+
+**CART: Not only Classification and Regression Trees** (_Marc Garcia_)
+<br/>https://www.youtube.com/watch?v=7fquVe4Q4No
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+**** (__)
+<br/>
+
+
+
+
+
+
+
+
 
 ### Tutorials
