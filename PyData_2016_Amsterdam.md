@@ -19,9 +19,10 @@
  - `spaCy` - NLP
 - Itertools
  - http://jmduke.com/posts/a-gentle-introduction-to-itertools
- 
-**The Duct Tape of Heroes: Bayes Rule** (_Vincent Warmerdam_)
-<br/>https://www.youtube.com/watch?v=BiYTLb-o1Dk
+
+**The Duct Tape of Heroes Bayesian statistics** (_Vincent D Warmerdam_)
+<br/>https://www.youtube.com/watch?v=dE5j6NW-Kzg
+<br/>http://koaning.io/theme/notebooks/bayes.pdf
 
 **Building a live face recognition system in the blink of a very slow eye** (_Rodrigo Agundez_)
 <br/>https://www.youtube.com/watch?v=MDaZtJPv3Ik
@@ -62,32 +63,77 @@
 **Reinforcement Learning in Python** (_Nathan Epstein_)
 <br/>https://www.youtube.com/watch?v=rTMa04TZ_MY
 
-**** (__)
-<br/>
+**The Future of NumPy Indexing** (_Jaime Fernández_)
+<br/>https://www.youtube.com/watch?v=o0EacbIbf58
+
+**Modelling a text corpus using Deep Boltzmann Machines** (_Ricardo Pio Monti_)
+<br/>https://www.youtube.com/watch?v=uju4RXEniA8
+
+**10 things I learned about writing data pipelines in Python and Spark** (_Ali Zaidi_)
+<br/>https://www.youtube.com/watch?v=I21_sZHjfkE
+
+**Iterables and Iterators: Going Loopy With Python** (_Steve Holden_)
+<br/>https://www.youtube.com/watch?v=iTwrF1DofCY
+
+**Building Data Pipelines in Python** (_Marco Bonzanini_)
+<br/>https://www.youtube.com/watch?v=GUI-gAPh9sU
+<br/>https://speakerdeck.com/marcobonzanini/building-data-pipelines-in-python-pydata-london-2016
+
+**Probablistic Programming Data Science with PyMC3** (_Thomas Wiecki_)
+<br/>https://www.youtube.com/watch?v=coEVZNg_nlA
+
+**KEYNOTE: Scaling Out PyData** (_Travis Oliphant_)
+<br/>https://www.youtube.com/watch?v=-aFTKM3nmZo
+<br/>http://www.slideshare.net/teoliphant/scaling-pydata-up-and-out
+
+**Irregular time series and how to whip them** (_Aileen Nielsen_)
+<br/>https://www.youtube.com/watch?v=E4NMZyfao2c
+<br/>https://slack-files.com/T0LFE6T6J-F17Q90AC9-b3eabe5c42
+
+**Modelling a text corpus using Deep Boltzmann Machines in python** (_Ricardo Pio Monti_)
+<br/>https://www.youtube.com/watch?v=d14RtvWvpLo
+<br/>https://github.com/piomonti/DeepTextMining/blob/master/PyData%20London%20Slides.pdf
+<br/>https://github.com/piomonti/DeepTextMining
+
+**Deep Learning for QSAR** (_Rich Lewis_)
+<br/>https://www.youtube.com/watch?v=kInLYwitfFs
+
+**Survival Analysis in Python and R** (_Linda Uruchurtu_)
+<br/>https://www.youtube.com/watch?v=fli-yE5grtY
+<br/>https://speakerdeck.com/lindauruchurtu/survival-analysis-in-r-and-python
+
+**PySpark in Practice** (_Ronert Obst & Dat Tran_)
+<br/>https://www.youtube.com/watch?v=SETpipUZ_Lc
+<br/>http://pydata2016.cfapps.io/
+<br/>https://github.com/datitran/spark-tdd-example
+
+**Interactive Visualization in Jupyter with Bqplot and Interactive Widgets** (_Sylvain Corlay_)
+<br/>https://www.youtube.com/watch?v=eVET9IYgbao
+<br/>https://github.com/SylvainCorlay/tutorial
+
+**Bayesianism and Survival Analysis** (_Jake Coltman & Jacob Goodwin_)
+<br/>https://www.youtube.com/watch?v=jlz2_hjW3UE
 
 **** (__)
 <br/>
 
 **** (__)
 <br/>
-
-**** (__)
-<br/>
-
-**** (__)
-<br/>
-
-**** (__)
-<br/>
-
-**** (__)
-<br/>
-
-
-
 
 
 
 
 
 ### Tutorials
+
+**Deep learning tutorial - advanced techniques** (_Geoffrey French_)
+<br/>https://www.youtube.com/watch?v=2Y7mw7Mv0TI
+<br/>https://speakerdeck.com/britefury/deep-learning-tutorial-advanced-techniques-pydata-london-2016
+<br/>https://github.com/Britefury/deep-learning-tutorial-pydata2016
+
+**Lies damned lies and statistics in Python** (_Peadar Coyle_)
+<br/>https://www.youtube.com/watch?v=YUh46N-SZ34
+
+**** (__)
+<br/>
+
