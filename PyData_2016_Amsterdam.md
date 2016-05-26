@@ -114,14 +114,26 @@
 **Bayesianism and Survival Analysis** (_Jake Coltman & Jacob Goodwin_)
 <br/>https://www.youtube.com/watch?v=jlz2_hjW3UE
 
-**** (__)
-<br/>
+**bandicoot: a toolbox to analyze mobile phone metadata** (_Luc Rocher_)
+<br/>https://www.youtube.com/watch?v=_Fb7ttS43GE
+<br/>https://github.com/cynddl/pydata-london-2016
 
-**** (__)
-<br/>
+**What's new in High Performance Python** (_Graham Markall_)
+<br/>https://www.youtube.com/watch?v=-5NUMvkYBNY
+<br/>http://gmarkall.github.io/tutorials/pydata-london-2016/#1
+<br/>https://github.com/gmarkall/tutorials/tree/master/pydata-london-2016/
 
+**Hierarchical Bayesian Modelling with PyMC3 and PySTAN** (_Jonathan Sedar_)
+<br/>https://www.youtube.com/watch?v=Jb9eklfbDyg
+<br/>https://github.com/jonsedar/pymc3_vs_pystan
 
+**Christian Hennig** (_Assessing the quality of a clustering_)
+<br/>https://www.youtube.com/watch?v=Mf6MqIS2ql4
+<br/>http://www.slideshare.net/PyData/christian-henning-assessing-the-quality-of-a-clustering
 
+**Finding needles in haystacks with Deep Neural Networks** (_Calvin Giles_)
+<br/>https://www.youtube.com/watch?v=bV1w_Q2Ihh4
+<br/>http://www.slideshare.net/CalvinGiles/finding-needles-in-haystacks-with-deep-neural-networks
 
 
 ### Tutorials
@@ -134,6 +146,16 @@
 **Lies damned lies and statistics in Python** (_Peadar Coyle_)
 <br/>https://www.youtube.com/watch?v=YUh46N-SZ34
 
-**** (__)
-<br/>
+**Introduction to Deep Learning & Natural Language Processing** (_Raghotham Sripadraj & Nischal HP_)
+<br/>https://www.youtube.com/watch?v=BkbtYgwXsWE
+<br/>https://speakerdeck.com/bargava/introduction-to-deep-learning
+<br/>https://github.com/rouseguy/intro2deeplearning/
+
+**Bokeh for Data Applications and Visualization** (_Bryan Van de Ven_)
+<br/>https://www.youtube.com/watch?v=h0y90MyGo-c
+
+**Pandas from the inside** (_Stephen Simmons_)
+<br/>https://www.youtube.com/watch?v=Dr3Hv7aUkmU
+<br/>https://github.com/SteveSimmons/PyData-PandasFromTheInside/blob/master/pfi.pdf
+<br/>https://github.com/SteveSimmons/PyData-PandasFromTheInside
 
