@@ -9,6 +9,10 @@
 
  - `prob_diff = np.mean(trace['mean_in_sample'] < trace['mean_out_of_sample])`
  - Example of Bayesian Neural Network in the above gist
+ - `ppc = pm.sample_ppc(trace, model=model_name, samples=500); pred = ppc['out'].mean(axis=0)`
+ - Example of mapping out the entire classifier space, including the uncertainty.
+ - Example of using ADVI, and mini-batch ADVI!
+  - ADVI must be continuous.
 
 **** (__)
 <br/>
