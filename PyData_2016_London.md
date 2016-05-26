@@ -3,9 +3,9 @@
 ### Presentations
 
 **Probablistic Programming Data Science with PyMC3** (_Thomas Wiecki_)
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;https://www.youtube.com/watch?v=LlzVlqVzeD8
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;https://docs.google.com/presentation/d/1QNxSjDHJbFL7vFwQHHheeGmBHEJAo39j28xdObFY6Eo/edit
-<br/>&nbsp;&nbsp;&nbsp;&nbsp;https://gist.github.com/anonymous/9287a213fe188a79d7d7774eef79ad4d
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=LlzVlqVzeD8
+<br/>&nbsp;&nbsp;https://docs.google.com/presentation/d/1QNxSjDHJbFL7vFwQHHheeGmBHEJAo39j28xdObFY6Eo/edit
+<br/>&nbsp;&nbsp;https://gist.github.com/anonymous/9287a213fe188a79d7d7774eef79ad4d
 
  - `prob_diff = np.mean(trace['mean_in_sample'] < trace['mean_out_of_sample])`
  - Example of Bayesian Neural Network in the above gist
