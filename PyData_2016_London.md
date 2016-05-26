@@ -13,6 +13,8 @@
  - Example of mapping out the entire classifier space, including the uncertainty.
  - Example of using ADVI, and mini-batch ADVI!
   - ADVI must be continuous.
+ - "Puppy Book" code ported to PyMC3
+  - https://github.com/aloctavodia/Doing_bayesian_data_analysis
 
 **** (__)
 <br/>
