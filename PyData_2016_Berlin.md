@@ -66,6 +66,11 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=0Ho0O1tvcU4
 <br/>&nbsp;&nbsp;http://de.slideshare.net/ukaszCzarnecki/brand-recognition-in-reallife-photos-using-deep-learning-lukasz-czarnecki-pydata-berlin-2016/
 
+**Usable A/B testing – A Bayesian approach** (_Nora Neumann_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=PSqtcNZDj4A
+<br/>&nbsp;&nbsp;https://speakerdeck.com/nneu/b-testing-a-bayesian-approach
+
+
 ### Tutorials
 
 **** (__)
