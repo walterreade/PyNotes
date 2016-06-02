@@ -7,11 +7,6 @@
 
 **Python Language** (_Guido van Rossum_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=YgtL4S7Hrwo
-<br/>&nbsp;&nbsp;
-
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
 
 **Python Sorted Collections** (_Grant Jenks_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7z2Ki44Vs4E
@@ -115,7 +110,3 @@
 
 **Making an Impact with Python Natural Language Processing Tools** (_Hobson Lane, Dan Fellin, Jeremy Robin_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oSSnDeOXTZQ
-
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
