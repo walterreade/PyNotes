@@ -108,40 +108,35 @@
 **Faster Python Programs - Measure, don't Guess** (_Mike Müller_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=JDSGVvMwNM8
 
+**Computational Statistics** (_Allen Downey_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=VR52vSbHBAk
+
 **Bayesian statistics made simple** (_Allen Downey_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6GV5bTCLC8g
 
-**** (__)
+**Data Carpentry: An Introduction to Python for Data Analysis and Visualization** (_Tracy Teal_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Ws34Ho-1aDs
 <br/>&nbsp;&nbsp;
 
-**** (__)
+**Introduction to Docker and containers** (_Jérôme Petazzoni_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=ZVaRK10HBjo
-<br/>&nbsp;&nbsp;
 
-**** (__)
+**Python by Immersion** (_Stuart Williams_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=2v88Nmf3PNE
-<br/>&nbsp;&nbsp;
 
-**** (__)
+**Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features** (_Mike Müller_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7PzeZQGVPKc
-<br/>&nbsp;&nbsp;
 
-**** (__)
+**Efficient Python for High-Performance Parallel Computing** (_Mike McKerns_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6zQhUlMYea4
 <br/>&nbsp;&nbsp;
 
-**** (__)
+**The Fellowship of the Data** (_Sev Leonard_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=n4VLLQXF_9Y
 <br/>&nbsp;&nbsp;
 
-**** (__)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=VR52vSbHBAk
-<br/>&nbsp;&nbsp;
-
-**** (__)
+**Making an Impact with Python Natural Language Processing Tools** (_Hobson Lane, Dan Fellin, Jeremy Robin_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oSSnDeOXTZQ
-<br/>&nbsp;&nbsp;
 
 **** (__)
 <br/>&nbsp;&nbsp;
