@@ -65,10 +65,6 @@
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
-
 ### Tutorials
 
 **Documenting your project with Sphinx & Read the Docs** (_Eric Holscher_)
@@ -103,12 +99,51 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=GZBIPwdGtkk
 <br/>&nbsp;&nbsp;
 
+**Natural Language Processing with NLTK and Gensim** (_Tony Ojeda, Benjamin Bengfort, Laura Lorenz_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=itKNpCPHq3I
+
+**Introduction to Unit Testing in Python with Pytest** (_Michael Tom-Wing, Christie Wilson_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=UPanUFVFfzY
+<br/>&nbsp;&nbsp;[check for direct link]
+
 **** (__)
-<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=JDSGVvMwNM8
 <br/>&nbsp;&nbsp;
 
 **** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6GV5bTCLC8g
 <br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Ws34Ho-1aDs
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=ZVaRK10HBjo
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=2v88Nmf3PNE
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7PzeZQGVPKc
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6zQhUlMYea4
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=n4VLLQXF_9Y
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=VR52vSbHBAk
+<br/>&nbsp;&nbsp;
+
+**** (__)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oSSnDeOXTZQ
 <br/>&nbsp;&nbsp;
 
 **** (__)
