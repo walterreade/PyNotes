@@ -109,7 +109,6 @@
 
 **Data Carpentry: An Introduction to Python for Data Analysis and Visualization** (_Tracy Teal_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Ws34Ho-1aDs
-<br/>&nbsp;&nbsp;
 
 **Introduction to Docker and containers** (_Jérôme Petazzoni_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=ZVaRK10HBjo
@@ -126,7 +125,6 @@
 
 **The Fellowship of the Data** (_Sev Leonard_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=n4VLLQXF_9Y
-<br/>&nbsp;&nbsp;
 
 **Making an Impact with Python Natural Language Processing Tools** (_Hobson Lane, Dan Fellin, Jeremy Robin_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oSSnDeOXTZQ
