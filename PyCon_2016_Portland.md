@@ -13,29 +13,23 @@
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Python Sorted Collections** (_Grant Jenks_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7z2Ki44Vs4E
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Oneliner-izer: An Exercise in Constrained Coding** (_Chelsea Voss_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=DsUxuz_Rt8g
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Structured Data from Unstructured Text** (_Van Lindberg_)
+<br/>https://www.youtube.com/watch?v=cPjJIiu3OQU
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Statistics for Hackers** (_Jake Vanderplas_)
+<br/>https://www.youtube.com/watch?v=-7I7MWTX0gA
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Kalman Filters for non-rocket science** (_Elizabeth Ramirez_)
+<br/>https://www.youtube.com/watch?v=SJvhQroy7hY
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Exception and error handling in Python 2 and Python 3** (_Alex Martelli_)
+<br/>https://www.youtube.com/watch?v=frZrBgWHJdY
 
 **Postgres present and future** (_Craig Kerstiens_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=rYSSX8mdbMk
