@@ -5,12 +5,8 @@
 
 ### Presentations
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
-
-**** (__)
-<br/>&nbsp;&nbsp;
+**Python Language** (_Guido van Rossum_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=YgtL4S7Hrwo
 <br/>&nbsp;&nbsp;
 
 **** (__)
@@ -41,29 +37,26 @@
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Postgres present and future** (_Craig Kerstiens_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=rYSSX8mdbMk
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Memory Management in Python** (_Nina Zakharenko_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=F6u5rhUQ6dU
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Visual Diagnostics for More Informed Machine Learning: Within and Beyond Scikit-Learn** (_Rebecca Bilbro_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Nt5HaoVKcvY
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**A Beginner's Guide to Deep Learning** (_Irene Chen_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=kVud83kqv30
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Code Unto Others ** (_Nathaniel Manista, Augie Fackler_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=AFhSWQYdjy4
 
-**** (__)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
+**Refactoring Python: Why and how to restructure your code** (_Brett Slatkin_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=d46PjvFki38
+
+**Git: A Peek Under the Hood** (_Clara Bennett_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=zZ2hG6PMjk8
 
 ### Tutorials
 
