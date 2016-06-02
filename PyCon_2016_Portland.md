@@ -104,15 +104,12 @@
 
 **Introduction to Unit Testing in Python with Pytest** (_Michael Tom-Wing, Christie Wilson_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=UPanUFVFfzY
-<br/>&nbsp;&nbsp;[check for direct link]
 
-**** (__)
+**Faster Python Programs - Measure, don't Guess** (_Mike Müller_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=JDSGVvMwNM8
-<br/>&nbsp;&nbsp;
 
-**** (__)
+**Bayesian statistics made simple** (_Allen Downey_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6GV5bTCLC8g
-<br/>&nbsp;&nbsp;
 
 **** (__)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Ws34Ho-1aDs
