@@ -8,11 +8,11 @@
 **Python Language** (_Guido van Rossum_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=YgtL4S7Hrwo
  - New in Python 3.5
-  - matrix multiply: A@B, __matmul__
-  - more unpacking syntax: x = [1, 2, *y]
+  - matrix multiply: `A@B, __matmul__`
+  - more unpacking syntax: `x = [1, 2, *y]`
  - Python 3.6
-  - f-strings: x="world"; y=42; print(f"Hello {x}, {y}")
-  - Underscores in numbers: 100_000_000
+  - f-strings: `x="world"; y=42; print(f"Hello {x}, {y}")`
+  - Underscores in numbers: `100_000_000`
 
 **Python Sorted Collections** (_Grant Jenks_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7z2Ki44Vs4E
