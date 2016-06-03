@@ -16,6 +16,7 @@
 
 **Python Sorted Collections** (_Grant Jenks_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7z2Ki44Vs4E
+ - [SortedContainers](https://pypi.python.org/pypi/sortedcontainers/1.5.2)
 
 **Oneliner-izer: An Exercise in Constrained Coding** (_Chelsea Voss_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=DsUxuz_Rt8g
