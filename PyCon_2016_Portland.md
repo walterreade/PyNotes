@@ -14,6 +14,9 @@
   - f-strings: `x="world"; y=42; print(f"Hello {x}, {y}")`
   - Underscores in numbers: `100_000_000`
 
+**Keynote** (_K Lars Lohn_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=bSfe5M_zG2s
+
 **Python Sorted Collections** (_Grant Jenks_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=7z2Ki44Vs4E
  - [SortedContainers](https://pypi.python.org/pypi/sortedcontainers/1.5.2)
