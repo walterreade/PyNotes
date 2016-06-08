@@ -23,6 +23,7 @@
 
 **Oneliner-izer: An Exercise in Constrained Coding** (_Chelsea Voss_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=DsUxuz_Rt8g
+ - https://github.com/csvoss/onelinerizer
 
 **Structured Data from Unstructured Text** (_Van Lindberg_)
 <br/>https://www.youtube.com/watch?v=cPjJIiu3OQU
