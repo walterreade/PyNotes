@@ -49,7 +49,7 @@
 **A Beginner's Guide to Deep Learning** (_Irene Chen_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=kVud83kqv30
 
-**Code Unto Others ** (_Nathaniel Manista, Augie Fackler_)
+**Code Unto Others** (_Nathaniel Manista, Augie Fackler_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=AFhSWQYdjy4
 
 **Refactoring Python: Why and how to restructure your code** (_Brett Slatkin_)
@@ -114,7 +114,6 @@
 
 **Efficient Python for High-Performance Parallel Computing** (_Mike McKerns_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6zQhUlMYea4
-<br/>&nbsp;&nbsp;
 
 **The Fellowship of the Data** (_Sev Leonard_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=n4VLLQXF_9Y
