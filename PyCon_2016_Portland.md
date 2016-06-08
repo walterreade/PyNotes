@@ -57,6 +57,7 @@
 
 **Git: A Peek Under the Hood** (_Clara Bennett_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=zZ2hG6PMjk8
+ - https://github.com/csojinb/git-under-the-hood
 
 ### Tutorials
 
