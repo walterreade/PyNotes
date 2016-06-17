@@ -25,17 +25,20 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=DsUxuz_Rt8g
  - https://github.com/csvoss/onelinerizer
 
+**Regular Expressions** (_Trey Hunner_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=W4ReH9IPH-Q
+
 **Structured Data from Unstructured Text** (_Van Lindberg_)
-<br/>https://www.youtube.com/watch?v=cPjJIiu3OQU
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=cPjJIiu3OQU
 
 **Statistics for Hackers** (_Jake Vanderplas_)
-<br/>https://www.youtube.com/watch?v=-7I7MWTX0gA
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=L5GVOFAYi8k
 
 **Kalman Filters for non-rocket science** (_Elizabeth Ramirez_)
-<br/>https://www.youtube.com/watch?v=SJvhQroy7hY
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=e2MJoPKVhHo
 
 **Exception and error handling in Python 2 and Python 3** (_Alex Martelli_)
-<br/>https://www.youtube.com/watch?v=frZrBgWHJdY
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=frZrBgWHJdY
 
 **Postgres present and future** (_Craig Kerstiens_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=rYSSX8mdbMk
@@ -44,16 +47,32 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=F6u5rhUQ6dU
 
 **Visual Diagnostics for More Informed Machine Learning: Within and Beyond Scikit-Learn** (_Rebecca Bilbro_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Nt5HaoVKcvY
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=c5DaaGZWQqY
+ - [Anscombe's Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+ - Visual Feature Analysis
+  - Boxplots
+  - Scatter Plot Matrices (sploms)
+  - Radial Visualizations (radviz) - can be good for classification
+  - Parallel Coordinates - look for chords, good for classification
+ - Visual Model Selection
+  - Classifier Comparison plots
+  - Classification Heatmap
+  - Prediction Error Plots
+  - Residual Plots
+ - Visual Tuning
+  - Validation Curves
+  - Visual Gridsearch
+ - `pip install yellowbrick`
+ - http://blog.districtdatalabs.com
 
 **A Beginner's Guide to Deep Learning** (_Irene Chen_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=kVud83kqv30
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=nCPf8zDJ0d0
 
 **Code Unto Others** (_Nathaniel Manista, Augie Fackler_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=AFhSWQYdjy4
 
 **Refactoring Python: Why and how to restructure your code** (_Brett Slatkin_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=d46PjvFki38
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=D_6ybDcU5gc
 
 **Git: A Peek Under the Hood** (_Clara Bennett_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=zZ2hG6PMjk8
@@ -65,11 +84,11 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=hM4I58TA72g
 
 **Machine Learning with Text in scikit-learn** (_Kevin Markham_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=znfy3T9OiAQ
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=WHocRqT-KkU
 <br/>&nbsp;&nbsp;https://github.com/justmarkham/pycon-2016-tutorial
 
 **Get Started with Git** (_David Baumgold_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Qthor07loHM
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=RrdECLvHW6g
 
 **Essential data science skills for every programmer, from data to model to visualization**
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=rudYHNAGbdk
@@ -81,7 +100,7 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=u682UpVrMVM
 
 **A Tour of Large-Scale Data Analysis Tools in Python** (_Sarah Guido, Sean O'Connor_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=f0zlRQ1qgIk
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=ltS4Om_3QRQ
 
 **Diving into Machine Learning through TensorFlow** (_ulia Ferraioli, Amy Unruh, Eli Bixby_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=GZBIPwdGtkk
@@ -99,7 +118,7 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=VR52vSbHBAk
 
 **Bayesian statistics made simple** (_Allen Downey_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6GV5bTCLC8g
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=TpgiFIGXcT4
 
 **Data Carpentry: An Introduction to Python for Data Analysis and Visualization** (_Tracy Teal_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=Ws34Ho-1aDs
@@ -120,4 +139,4 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=n4VLLQXF_9Y
 
 **Making an Impact with Python Natural Language Processing Tools** (_Hobson Lane, Dan Fellin, Jeremy Robin_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oSSnDeOXTZQ
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=jSdkFSg9oW8
