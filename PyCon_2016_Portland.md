@@ -29,7 +29,7 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=W4ReH9IPH-Q
 
 **Structured Data from Unstructured Text** (_Van Lindberg_)
-<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=cPjJIiu3OQU
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=-K-XtxSyyvU
 
 **Statistics for Hackers** (_Jake Vanderplas_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=L5GVOFAYi8k
