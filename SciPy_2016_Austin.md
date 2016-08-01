@@ -4,8 +4,6 @@
 
 **What's new in Spyder 3.0** (_Carlos Cordoba_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=5boKDo1C144
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
 
  - Section Cell: `# %%`
  - Variable Explorer can open and sort dataframes
