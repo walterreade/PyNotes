@@ -1,4 +1,4 @@
-## PyData 2016 - Berlin
+## PyData 2016 - Chicago
 
 ### Presentations
 
