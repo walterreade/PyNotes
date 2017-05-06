@@ -12,3 +12,13 @@
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
+
+
+
+## PyData London 2017
+
+**Make your research interactive with Jupyter Dashboards** (_Pavlo Andriychenko_)
+<br/>https://www.youtube.com/watch?v=qQaBv7gw8vw
+
+
+
