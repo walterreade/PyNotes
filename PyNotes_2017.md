@@ -69,7 +69,7 @@
 **The Fastest FizzBuzz in the West** (_Dustin Ingram_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=ApgUrtCrmV8
 
-```
+```python
 def fizzbuzz(n):
   for i in range(n):
     print(i%3//2*'fizz'+i%5//4*'buzz' or i+1)
