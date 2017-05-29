@@ -6,7 +6,7 @@
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=HcaAKI1tVGM
 <br/>&nbsp;&nbsp;https://github.com/marcotcr/lime
 
-- df.sample(frac=1).head()
+- To view a random sample of dataframe: `df.sample(frac=1).head()`
 
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
