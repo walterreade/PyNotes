@@ -75,6 +75,61 @@ def fizzbuzz(n):
     print(i%3//2*'fizz'+i%5//4*'buzz' or i+1)
 ```
 
+**An Introduction to Reinforcement Learning** (_Jessica Forde_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=k1UuTyW2uFc
+
+**Human Machine Collaboration for Improved Analytical Processes** (_Tony Ojeda_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=s0u_UkVecx0
+
+**The Dictionary Even Mightier** (_Brandon Rhodes_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=66P5FMkWoVU
+
+**Modern Python Dictionaries -- A confluence of a dozen great ideas** (_Raymond Hettinger_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=npw4s1QTmPg
+
+**What's new in Python 3.6** (_Brett Cannon_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=c2rEbbGLPQc
+
+**Readability Counts** (_Trey Hunner_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=knMg6G9_XCg
+
+**The Wild West of Data Wrangling** (_Sarah Guido_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=xn9sTXR3Cp8
+
+**Dask: A Pythonic Distributed Data Science Framework** (_Matthew Rocklin_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=RA_2qdipVng
+
+**Factory Automation with Python Stories about Robots, Serial Ports, and Barcode Readers** (_Jonas Neubert_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=cEyVfiix1Lw
+
+**Snakes on a Hyperplane Python Machine Learning in Production** (_Jessica Lundin_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oV-cm0Loefg
+
+**A gentle introduction to deep learning with TensorFlow** (_Michelle Fullwood_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=5e0TbyCkbCY
+
+**Looping Like a Pro in Python** (_David DB Baumgold_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=u8g9scXeAcI
+
+**Instagram Filters in 15 Lines of Python** (_Michele Pratusevich_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=otLGDpBglEA
+
+**Passing Exceptions 101 Paradigms in Error Handling** (_Amandine Lee_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=BMtJbrvwlmo
+
+**Python Epiphanies [Tutorial]** (_Stuart Williams_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oQca6eDcjA8
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
+
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
 
@@ -92,41 +147,3 @@ def fizzbuzz(n):
 
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
