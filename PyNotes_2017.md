@@ -120,6 +120,37 @@ def fizzbuzz(n):
 **Python Epiphanies [Tutorial]** (_Stuart Williams_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=oQca6eDcjA8
 
+**Intro to Bayesian Machine Learning with PyMC3 and Edward [Tutorial]** (_Torsten Scholak, Diego Maniloff_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=fR5Wvb86-IU
+<br/>&nbsp;&nbsp;http://tscholak.github.io/assets/PyConEdward/#/
+
+**Parallel Data Analysis [Tutorial]** (_Ben Zaitlen, Matthew Rocklin, Min Ragan Kelley, Olivier Grisel_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=KIXACCJHtDg
+
+**Build a data pipeline with Luigi [Tutorial]** (_Aaron Knight_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=jpkZGXrhZJ8
+
+**Faster Python Programs Measure, don't Guess [Tutorial]** (_Mike Müller_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=xmuEsYut9Pc
+
+**Python and Jupyter in Depth: High productivity, interactive Python [Tutorial]** (_Matthias Bussonnier, Mike Bright, Min Ragan-Kelley_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=VQBZ2MqWBZI
+
+**Introduction to Digital Signal Processing [Tutorial]** (_Allen Downey_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=UOIllEyajGs
+
+**Deploy and scale containers with Docker native, open source orchestration** (_Jerome Petazzoni, AJ Bowen_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=EuzoEaE6Cqs
+
+**Hands On Intro to Python for New Programmers** (_Trey Hunner_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6zu8lrYn6t8
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
 
@@ -129,6 +160,11 @@ def fizzbuzz(n):
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
 
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
 
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
