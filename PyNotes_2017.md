@@ -8,12 +8,6 @@
 
 - To view a random sample of dataframe: `df.sample(frac=1).head()`
 
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
-
-
 
 ## PyData London 2017
 
@@ -139,47 +133,42 @@ def fizzbuzz(n):
 **Introduction to Digital Signal Processing [Tutorial]** (_Allen Downey_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=UOIllEyajGs
 
-**Deploy and scale containers with Docker native, open source orchestration** (_Jerome Petazzoni, AJ Bowen_)
+**Deploy and scale containers with Docker native, open source orchestration [Tutorial]** (_Jerome Petazzoni, AJ Bowen_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=EuzoEaE6Cqs
 
-**Hands On Intro to Python for New Programmers** (_Trey Hunner_)
+**Hands On Intro to Python for New Programmers [Tutorial]** (_Trey Hunner_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=6zu8lrYn6t8
 
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
+**Time Series Analysis** (_Aileen Nielsen_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=zmfe2RaX-14
+
+**Decorators and descriptors decoded** (_Luciano Ramalho_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=81S01c9zytE
+
+**Fantastic Data and Where To Find Them: An introduction to APIs, RSS, and Scraping** (_Nicole Donnelly, Tony Ojeda, Will Voorhees_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=A42voDYkFZw
+
+**Introduction to Statistical Modeling with Python** (_Christopher Fonnesbeck_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=TMmSESkhRtI
+
+**bokeh: Data Visualization in Python** (_Chalmer Lowe_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=xId9B1BVusA
+
+**Exploratory data analysis in pytho** (_Chloe Mawer, Jonathan Whitmore_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=W5WE9Db2RLU
+<br/>&nbsp;&nbsp;https://github.com/cmawer/pycon-2017-eda-tutorial/
+
+**Using Functional Programming for efficient Data Processing and Analysis** (_Reuben Cummings_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=9kDUTJahXBM
+<br/>&nbsp;&nbsp;https://speakerdeck.com/reubano/using-functional-programming-for-efficient-data-processing-and-analysis
+<br/>&nbsp;&nbsp;https://github.com/reubano/pycon17-tute
+
+
+## ...
 
 **xxx** (_xxx_)
 <br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
-
-**xxx** (_xxx_)
-<br/>&nbsp;&nbsp;
