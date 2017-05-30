@@ -45,8 +45,10 @@
 
 ## PyCon 2017
 
-**Kubernetes for Python** (_Kelsey Hightower_)
+**Kubernetes for Pythonistas** (_Kelsey Hightower_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=u_iAXzy3xBA
+
+- (Really fun Tetris example of scheduling)
 
 **Probabilistic Programming with PyMC3** (_Christopher Fonnesbeck_)
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=5TyvJ6jXHYE
