@@ -1,4 +1,4 @@
-# PyData 2017
+# PyNotes 2017
 
 ## Tel Aviv Meetup
 
@@ -164,6 +164,29 @@ def fizzbuzz(n):
 <br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=9kDUTJahXBM
 <br/>&nbsp;&nbsp;https://speakerdeck.com/reubano/using-functional-programming-for-efficient-data-processing-and-analysis
 <br/>&nbsp;&nbsp;https://github.com/reubano/pycon17-tute
+
+
+
+## Misc
+
+**Use Python to Load & Prepare Data Analytics** (_Raymond Hettinger _)
+<br/>https://www.youtube.com/watch?v=nO78ECRighw
+
+```python
+from collections import defaultdict
+from pprint import pprint
+
+d = defaultdict(list)
+d['a'].append('apple')
+d = dict(d) # to convert to regular dict
+pprint(d)
+
+# start @ 11:52
+
+```
+
+
+
 
 
 ## ...
