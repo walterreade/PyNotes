@@ -179,8 +179,8 @@ def fizzbuzz(n):
 
 ## Misc
 
-**Use Python to Load & Prepare Data Analytics** (_Raymond Hettinger _)
-<br/>https://www.youtube.com/watch?v=nO78ECRighw
+**Use Python to Load & Prepare Data Analytics** (_Raymond Hettinger_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=nO78ECRighw
 
 ```python
 from collections import defaultdict
