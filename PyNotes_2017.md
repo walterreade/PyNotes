@@ -166,6 +166,16 @@ def fizzbuzz(n):
 <br/>&nbsp;&nbsp;https://github.com/reubano/pycon17-tute
 
 
+## PyData London
+
+**SaaaS - Sampling as an Algorithm Service** (_Vincent D. Warmerdam_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=8g6oF8vUqTU
+<br/>&nbsp;&nbsp;http://koaning.io/switching-to-sampling-in-order-to-switch.html
+<br/>&nbsp;&nbsp;http://koaning.io/elimination-via-inference.html
+
+- _(Approachable introduction to MCMC)_ 
+- Uses the Kaggle [Santa's Uncertain Bags Competition](https://www.kaggle.com/c/santas-uncertain-bags) as an example
+
 
 ## Misc
 
