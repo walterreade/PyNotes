@@ -3,4 +3,4 @@
 
 
 ## Testing
-- [Hypothesis] (https://hypothesis.readthedocs.io/en/latest/index.html)
+- [Hypothesis](https://hypothesis.readthedocs.io/en/latest/index.html)
