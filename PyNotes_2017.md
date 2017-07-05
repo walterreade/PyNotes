@@ -197,6 +197,64 @@ pprint(d)
 
 
 
+## ...
+
+**The Secret Life Of Rolling Pandas** (_Jaime Fernandez del Rio_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=XM_r5La-1tA
+<br/>&nbsp;&nbsp;
+
+**Keynote** (_Travis Oliphant_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=NBliyFXnWeo
+<br/>&nbsp;&nbsp;
+
+**A Beginners Guide to Weather & Climate Data** (_Margriet Groenendijk_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=U_Aq2cPxwss
+<br/>&nbsp;&nbsp;
+
+**NASA Space APPS Challenge: Asteroid prediction impact** (_Gema Parreño_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=8h3uyQfiMNc
+<br/>&nbsp;&nbsp;
+
+**Security for Data Scientists** (_David Arcos_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=aicyYd8MZWo
+<br/>&nbsp;&nbsp;
+
+**Web Scraping with Python** (_Carles Illa_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=aTwvQZjEZhk
+<br/>&nbsp;&nbsp;
+
+**Marketing Data Science** (_Joaquin Pais_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=jzuQJg3bFy8
+<br/>&nbsp;&nbsp;
+
+**Python for visualization of HPC applications** (_Miguel Zavala-Ake_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=0ni90h8EErQ
+<br/>&nbsp;&nbsp;
+
+**TensorFlow Wide & Deep: Advanced Classification the easy way** (_Yufeng Guo_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=WKgNNC0VLhM
+<br/>&nbsp;&nbsp;
+
+**Feature Importance and Ensemble Methods : a new perspective** (_Constant Bridon_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=qdEhJ0uT7wk
+<br/>&nbsp;&nbsp;
+
+**Extending Jupyter with Google Cloud Storage file system backend** (_Egor Bulychev_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=uLC0t5JZBZs
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
 
 
 ## ...
