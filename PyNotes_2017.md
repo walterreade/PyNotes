@@ -257,6 +257,41 @@ pprint(d)
 
 
 
+## PyData Seattle
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;https://github.com/klq/python-webscrapes
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+
 ## ...
 
 **xxx** (_xxx_)
