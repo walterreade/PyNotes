@@ -259,7 +259,7 @@ pprint(d)
 
 ## PyData Seattle
 
-**xxx** (_xxx_)
+**Tutorial: Web Scraping with Python** (_Lingqiang Kong_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;https://github.com/klq/python-webscrapes
 
