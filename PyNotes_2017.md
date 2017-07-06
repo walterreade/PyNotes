@@ -263,23 +263,119 @@ pprint(d)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;https://github.com/klq/python-webscrapes
 
-**xxx** (_xxx_)
+**Tutorial: D’oh! Unevenly spaced time series analysis of The Simpsons in Pandas** (_Joe McCarthy_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;https://pydata.org/seattle2017/schedule/presentation/104/
+
+**Tutorial: From Novice to Data Ninja** (_Valentina Staneva_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
+**Tutorial: So you want to be a Python expert?** (_James Powell_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
+**Tutorial: Introduction to data analytics with pandas** (_Quentin Caudron_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
+**Tutorial: pomegranate, fast and flexible probabilistic modeling in python** (_Maxwell W Libbrecht_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;http://noble.gs.washington.edu/~maxwl/2017-07-05%20pydata%20pomegranate.pdf
+
+**Tutorial: Data Visualization and Exploration with Python** (_Stephen Elston_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;https://github.com/StephenElston/ExploringDataWithPython
+
+**Tutorial: Vocabulary Analysis of Job Descriptions** (_Alex Thomas_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
-**xxx** (_xxx_)
+**Keynote 1** (_Katrina Riehl_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Provenance for Reproducible Data Science** (_Andreas Schreiber_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Monitoring Displacement Crises with Python** (_George Richardson_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Designing for Guidance in Machine Learning** (_Olivia Gunton_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Automatic Citation generation with Natural Language Processing** (_Claire Kelley, Sarah Kelley_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Practical Optimization for Stats Nerds** (_Ryan J. O'Neil_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Pandas, Pipelines, and Custom Transformers** (_Julie Michelman_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Robust Automated Forecasting in Python and R** (_Pranav Bahl, Jonathan Stacks_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**How to be a 10x Data Scientist** (_Stephanie Kim_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Learning Neural Nets Through Implementation and Examples** (_Kyle Shaffer_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Forecasting Time Series Data at scale with the TICK stack** (_Nathaniel Cook_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Sirbarksalot: Bark Detection in Python** (_Nicholas Kridler_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**High Fidelity Web Crawling in Python** (_Josh Weissbock_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Implementing and Training Predictive Customer Lifetime Value Models in Python** (_Jean-Rene Gauthier, Ben Van Dyke_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Learn to be a painter using Neural Style Painting** (_Pramit Choudhary_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Scaling Scikit-Learn** (_Stephen Hoover_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Interactive Data Analysis** (_Jeffrey Heer_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**JupyterLab+Real Time Collaboration** (_Brian Granger, Chris Colbert & Ian Rose_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**We came, we saw, we hacked. How to win a Big Data hackathon** (_Eloisa Tran_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Bokeh and Friends** (_Bryan Van de ven_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Using Machine Learning and Brain Waves to Detect Errors in Human Problem Solving** (_Katie Porterfield_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Robust Algorithms for Machine Learning** (_Tom Radcliffe_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
