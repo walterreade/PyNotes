@@ -327,6 +327,10 @@ pprint(d)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
+ - Code Stubs
+ - Exception handling
+ - Unit Tests
+
 **Learning Neural Nets Through Implementation and Examples** (_Kyle Shaffer_)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
