@@ -407,7 +407,13 @@ pprint(d)
      - **James**: We all know the overt discrimination is wrong, we need to scrutinize the unconscious biases.
      - **Charlotte:** The Atlantic - [Why Silicon Valley So Awful To Women](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
 - *What tips do you have for diversity candidates when they're trying to find a job*
- - **Charlotte:** I don't know if my advice would be that different to anyone. Network like crazy. Don't limit yourself by what is listed on the job discription.
+     - **Charlotte:** I don't know if my advice would be that different to anyone. Network like crazy. Don't limit yourself by what is listed on the job discription.
+- *What tops do you have for teams trying to avoid hiring bias?*
+     - **Charlotte:** There is tech that will help ensure job postings attarct a more diverse candidate pool. Train interviewers. Work hard to avoid the "like-me" bias.
+- *What advice do you have regarding performance reviews or promotions?*
+     - **Ling:** Salary differences due to asking promotions, and different perceptions due to whether men or women are asking for a promotion. Need to have a more consistent career check-in with manager.
+- *What advice do you have managers to create a trusting workplace?*
+     - **Tina:** 
 
 
 ## ...
