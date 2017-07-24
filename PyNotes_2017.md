@@ -396,7 +396,7 @@ pprint(d)
 
  - *Ling*: First PyData conference, noticed there were lines at the men's restroom but not the women's.
  - What obstacles have you encountered in building a diverse community?
-  - *Ling*: 1) Building a diverse community not always a priority (especially when hiring one at a time). 2) Really hard to find diverse candidates. Why? Not building from scratch; building from an already established tech community. So, general lack of role models. Work on building mentorships and role models.
+     - *Ling*: 1) Building a diverse community not always a priority (especially when hiring one at a time). 2) Really hard to find diverse candidates. Why? Not building from scratch; building from an already established tech community. So, general lack of role models. Work on building mentorships and role models.
  - What lessons can you share about overcoming these obstackes?
   - *Andrea:* Find people who are adaptable, not try to use some objective measure of competency.
  - What actionalble advice do you have someone trying to increase undersatanding the value of diversity?
@@ -407,7 +407,7 @@ pprint(d)
   - *James:* We all know the overt discrimination is wrong, we need to scrutinize the unconscious biases.
   - *Charlotte:* The Atlantic - [Why Silicon Valley So Awful To Women](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
 - What tips do you have for diversity candidates when they're trying to find a job
- - *Charlotte:* I don't know if my advice would be that different to anyone. 
+ - *Charlotte:* I don't know if my advice would be that different to anyone. Network like crazy.
 
 
 ## ...
