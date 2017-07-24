@@ -391,6 +391,13 @@ pprint(d)
 <br/>&nbsp;&nbsp;
 <br/>&nbsp;&nbsp;
 
+**PyData Seattle Diversity Panel - How diversity drives excellence in our data driven tech world** (_Lingqiang Kong, Andrea Brice, Charlotte Flanagan, Tina-Marie Gulley, James Powell_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=xOcbLqnFUa8
+
+ - Ling: First PyData conference, noticed there were lines at the men's restroom but not the women's.
+ - What obstacles have you encountered in building a diverse community?
+  - Ling: 1) Building a diverse community not always a priority. 2) Really hard to find diverse candidates. Diverse not 1-dimensional, not just gender or race. 
+
 
 ## ...
 
