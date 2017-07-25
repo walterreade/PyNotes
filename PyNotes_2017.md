@@ -413,7 +413,21 @@ pprint(d)
 - *What advice do you have regarding performance reviews or promotions?*
      - **Ling:** Salary differences due to asking promotions, and different perceptions due to whether men or women are asking for a promotion. Need to have a more consistent career check-in with manager.
 - *What advice do you have managers to create a trusting workplace?*
-     - **Tina:** 
+     - **Tina:** Leader needs to serve as role model; transparent. Learn more about individuals. Listen with empathy.
+- *What resources or social networks do you when you don't know how to resolve a challenging workplace situation?*
+     - **Andrea:** "Nevertheless, she persisted." Be the amazing team-mate to the solo person who is having the challenge.
+- *If you frame diversity as good for business instead of as a social justice, does it risk getting less resources?* [42 min]
+     - **Ling**: Diversity does drive the bottom line. In ML you ensemble diverse models!
+- *What are practical steps you've taken to deal with imposter syndrome*?
+     - **Charlotte:** Talk things through with your network. Power pose before interviews. (Note: The science the TED Talk was based on has [not been able to be replicated](http://www.npr.org/2016/10/01/496093672/power-poses-co-author-i-do-not-believe-the-effects-are-real).)
+     - **Andrea:** Get used to not knowing, develop the skill of jumping in getting going.
+     - **Ling:** Dunning-Krueger Effect - The less you know, the more you over-estimate your skills. Imposter Syndrome means your human and probably more skilled than you think.
+ - *Can we encourage people to be Person #1*
+     - **Andrea:** Walk towards your fears. Otherwise you're not growing.
+
+
+
+
 
 
 ## ...
