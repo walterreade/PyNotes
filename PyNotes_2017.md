@@ -177,6 +177,67 @@ def fizzbuzz(n):
 - Uses the Kaggle [Santa's Uncertain Bags Competition](https://www.kaggle.com/c/santas-uncertain-bags) as an example
 
 
+
+## PyData Berlin (July 2017)
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**Open Data Use Cases** (_Ulrike Thalheim_)
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=kNT-MaVWJmM
+
+ - Overview of Open Data
+ - State of Open Data in Germany
+ - Use cases of Open Data
+  - Environmental data - Air quality
+  - Election Data
+  - Wikidata
+  - Other projects
+ - How to get involved
+ 
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+**xxx** (_xxx_)
+<br/>&nbsp;&nbsp;
+<br/>&nbsp;&nbsp;
+
+
+
 ## Misc
 
 **Use Python to Load & Prepare Data Analytics** (_Raymond Hettinger_)
