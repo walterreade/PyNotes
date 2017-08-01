@@ -194,10 +194,10 @@ def fizzbuzz(n):
  - Overview of Open Data
  - State of Open Data in Germany
  - Use cases of Open Data
-  - Environmental data - Air quality
-  - Election Data
-  - Wikidata
-  - Other projects
+   - Environmental data - Air quality
+   - Election Data
+   - Wikidata
+   - Other projects
  - How to get involved
  
 
