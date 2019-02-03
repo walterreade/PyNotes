@@ -8,13 +8,13 @@
 <br/>&nbsp;&nbsp;https://github.com/jreback/pydata_nyc-2018
 
  - Extension Arrays - Specification of how external arrays interface with pandas
-  - First class data dtypes
-  - Decouple memory management and processing from pandas (and numpy)
+   - First class data dtypes
+   - Decouple memory management and processing from pandas (and numpy)
  - 0.24 - First class dtypes
-  - Integer NA
-   - dtype='Int64' (capitalized!)
-   - Uses `IntegerArray` instead of numpy array
-   - has values and a mask
+   - Integer NA
+     - dtype='Int64' (capitalized!)
+     - Uses `IntegerArray` instead of numpy array
+     - has values and a mask
 ```python
     s.values        # IntegerArray([1, 2, nan], dtype='Int64'
     s.values._data  # array([1, 2, 1])
