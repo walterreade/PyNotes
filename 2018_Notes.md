@@ -16,7 +16,7 @@
      - Uses `IntegerArray` instead of numpy array
      - has values and a mask
 ```python
-    s.values        # IntegerArray([1, 2, nan], dtype='Int64'
+    s.values        # IntegerArray([1, 2, nan], dtype='Int64')
     s.values._data  # array([1, 2, 1])
     s.values._mask  # array([False, False, True])
 ```
