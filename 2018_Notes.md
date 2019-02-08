@@ -23,11 +23,9 @@
  
 <hr>
 
-****
-<br/>__<br/>
-<br/>&nbsp;&nbsp;
-<br/>&nbsp;&nbsp;
- - 
+**Measuring Model Fairness**
+<br/>_J. Henry Hinnefeld (Civis Analytics)_<br/>
+<br/>&nbsp;&nbsp;https://www.youtube.com/watch?v=V3tmxMf2UH8
 
 <hr>
 
